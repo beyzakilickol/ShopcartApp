@@ -7,7 +7,7 @@
     The most popular articles are also featured on the home page as well. The popular articles are graded by the number of likes users and guests have given the article. Number of likes are not limited. While on the home page guest and users can sort through articles by the topics, such as Health, Sports, Food, Culture, etc. At any time, the guest or user may return to the home page by clicking the B.E.A.P logo. In order to exit, the user must sign-out under the profile tab. 
    
 ## Live link: 
-http://beap.surge.sh/
+
 
 ## Introduction video of the project: 
 https://www.youtube.com/watch?v=nUAvtVYFHR8&feature=youtu.be
